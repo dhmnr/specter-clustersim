@@ -1,0 +1,14 @@
+[project]
+name = "specter"
+version = "0.1.0"
+description = "Ghost-run your GPU cluster at any scale"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+specter = "specter.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

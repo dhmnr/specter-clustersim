@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Build artifacts
+build/
+*.so
+*.o
+
+# Trace output
+traces/
+*.jsonl
