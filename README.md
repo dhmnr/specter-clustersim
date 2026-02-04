@@ -1,15 +1,4 @@
-# SPECTER
-
-```
-███████╗██████╗ ███████╗ ██████╗████████╗███████╗██████╗
-██╔════╝██╔══██╗██╔════╝██╔════╝╚══██╔══╝██╔════╝██╔══██╗
-███████╗██████╔╝█████╗  ██║        ██║   █████╗  ██████╔╝
-╚════██║██╔═══╝ ██╔══╝  ██║        ██║   ██╔══╝  ██╔══██╗
-███████║██║     ███████╗╚██████╗   ██║   ███████╗██║  ██║
-╚══════╝╚═╝     ╚══════╝ ╚═════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
-
-Ghost-run your GPU cluster at any scale
-```
+# SPECTER-CLUSTERSIM
 
 Trace NCCL and cuBLAS operations from real GPU workloads, then simulate them on clusters of any size.
 
